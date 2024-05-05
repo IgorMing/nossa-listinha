@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189485304697",
+    "project_id": "nossa-listinha",
+    "storage_bucket": "nossa-listinha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189485304697:android:d19c304d5aadf184df3da8",
+        "android_client_info": {
+          "package_name": "com.example.nossa_listinha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFTuya16GITsCiubBJn6XbqbgNiYCic8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
